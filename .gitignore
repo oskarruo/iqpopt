@@ -7,3 +7,5 @@ paper/datasets/*/*
 
 paper/datasets/*/*/*
 !paper/datasets/*/*/*.py
+
+qiskit-venv/
